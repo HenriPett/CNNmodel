@@ -1,3 +1,3 @@
 # CNNmodel
-It´s a CNN model. I've explained everything that I've done in the code (Portuguese)
-It's for a cientific project in college.
+## About:
+Notebook made to explain how to implement an SVM Model. I've explained everything that I've done in the code. Its purpose was to explain concepts to coworkers in a scientific project in college.
